@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Yakiv87.io/goit-react-hw-02-feedback/static/css/main.a514f83d.css",
-    "main.js": "/Yakiv87.io/goit-react-hw-02-feedback/static/js/main.c418143b.js",
-    "index.html": "/Yakiv87.io/goit-react-hw-02-feedback/index.html",
-    "main.a514f83d.css.map": "/Yakiv87.io/goit-react-hw-02-feedback/static/css/main.a514f83d.css.map",
-    "main.c418143b.js.map": "/Yakiv87.io/goit-react-hw-02-feedback/static/js/main.c418143b.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.a514f83d.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.c418143b.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.a514f83d.css.map": "/goit-react-hw-02-feedback/static/css/main.a514f83d.css.map",
+    "main.c418143b.js.map": "/goit-react-hw-02-feedback/static/js/main.c418143b.js.map"
   },
   "entrypoints": [
     "static/css/main.a514f83d.css",
